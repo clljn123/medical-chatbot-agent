@@ -1,0 +1,9 @@
+langchain-openai
+langchain-core
+langchain-community
+langchain-chroma
+langgraph
+dashscope
+gradio
+python-dotenv
+requests
